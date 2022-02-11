@@ -1,7 +1,22 @@
-# bubbles.js
 ```
+                ()
+          ()
               ()
+Bubbles.js  ()
+```
+
+This is a bubble: `()`
+
+Bubbles.js counts bubbles.
+
+You use it like this:
+
+```js
+count = await bubbles
+
+    ()  ()
+ ()  ()
         ()
-           ()
-Bubbles  ()
+
+console.log(`There are ${count} bubbles.`)
 ```
