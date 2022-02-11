@@ -5,7 +5,7 @@
 Bubbles.js  ()
 ```
 
-This is a bubble: `()`
+This is an ASCII bubble: `()`
 
 Bubbles.js counts bubbles.
 
