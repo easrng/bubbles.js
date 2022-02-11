@@ -13,7 +13,7 @@ You use it like this:
 
 ```js
 import bubbles from "https://cdn.jsdelivr.net/gh/easrng/bubbles.js@190ee23/bubbles.js";
-count = await bubbles
+const count = await bubbles
 
     ()  ()
  ()  ()
